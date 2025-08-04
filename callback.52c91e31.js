@@ -1,0 +1,2 @@
+import"./demo.84d20665.js";var e=globalThis,r={},i={},o=e.parcelRequire2073;null==o&&((o=function(e){if(e in r)return r[e].exports;if(e in i){var o=i[e];delete i[e];var t={id:e,exports:{}};return r[e]=t,o.call(t.exports,t,t.exports),t.exports}var n=Error("Cannot find module '"+e+"'");throw n.code="MODULE_NOT_FOUND",n}).register=function(e,r){i[e]=r},e.parcelRequire2073=o),o.register,o("9fvPZ").SDK.handleLoginRedirect(void 0,void 0);
+//# sourceMappingURL=callback.52c91e31.js.map
